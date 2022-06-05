@@ -1,4 +1,3 @@
-<a href="https://bing.com" target="_blank" title="click here"><b>click here</b></a>
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
 <!--        Author : Ismail Tasdelen -->
 <!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
